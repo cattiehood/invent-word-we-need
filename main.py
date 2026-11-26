@@ -16,7 +16,7 @@ import os
 import sys
 from pathlib import Path
 
-ENTRY = "Preply (v.): to write a perfect reply, close the tab, and live all afternoon on the high of almost sending it."
+ENTRY = "Glancepact (n.): you and someone you know both look at your phones and walk past each other without saying hello."
 
 
 def output_dir() -> Path:
