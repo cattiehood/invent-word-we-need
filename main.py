@@ -16,7 +16,7 @@ import os
 import sys
 from pathlib import Path
 
-ENTRY = "Tabshame (n.): the panic when 80 research tabs appear on a screenshare."
+ENTRY = "Preply (v.): to write a perfect reply, close the tab, and live all afternoon on the high of almost sending it."
 
 
 def output_dir() -> Path:
